@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/Sources">
+        <file>Sources/names.txt</file>
+    </qresource>
+    <qresource prefix="/Characters">
+        <file>Sources/Characters/builder100x150.png</file>
+        <file>Sources/Characters/butcher100x150.png</file>
+        <file>Sources/Characters/doctor100x150.png</file>
+        <file>Sources/Characters/farmer100x150.png</file>
+        <file>Sources/Characters/hunter100x150.png</file>
+        <file>Sources/Characters/mayor100x150.png</file>
+        <file>Sources/Characters/murderer100x150.png</file>
+        <file>Sources/Characters/detective.png</file>
+        <file>Sources/Characters/allCharacters.jpg</file>
+        <file>Sources/Characters/allCharacterss.jpg</file>
+        <file>Sources/Characters/Normal_Man100x150.png</file>
+        <file>Sources/Characters/Normal_Man_Dead100x150.png</file>
+    </qresource>
+</RCC>
